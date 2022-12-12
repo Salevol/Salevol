@@ -26,6 +26,7 @@ Skills:
 
 Currently reading: "Introduction to Algorithms" / T.H. Cormen.
 
+How to contact me: asankovsky@gmail.com
 <!--
 **Salevol/Salevol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
