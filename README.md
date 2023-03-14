@@ -1,6 +1,6 @@
 ### Hi there 👋
 Started programming in school (in 2003, VB and Delphi) but abandonned it for almost 15 year for a career in mining engineering. Got a PhD degree though😄
-Started to solve some ML problems with python in university which lead to a twist in career - currently I'm a Data Analyst. Looking forward to switch to Java with static type system and maybe further to some FP language.
+Started to solve some ML problems with python in university which lead to a twist in career - currently I'm a Data Analyst/Engineer. Looking forward to switch to Java with static type system and maybe further to some FP language.
 
 Education:
 - Saint-Petersburg Mining University, PhD in Mining Engineering, 2015
