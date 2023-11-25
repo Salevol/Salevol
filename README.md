@@ -10,12 +10,13 @@ IT-relevant courses:
 - HarvardX, PH526x: Using Python for Research, 2020
 - stepik.org, Deep Learning, 2021
 - Moscow Institute of Physics and Technology, Math for data analysis, 2021
-- Hexlet, Java developer profession, now in progress
+- Hexlet, Java developer profession, 2023
+- Hexlet, Teamlead school, 2023
 
 Skills:
 - Python (pandas, numpy, sklearn)
-- Java (Core, JUnit)
-- SQL (Postgres)
+- Java (Core, Spring, JUnit)
+- SQL (PostgreSQL, Clickhouse)
 - Gradle
 - Jira/Confluence
 - Docker
